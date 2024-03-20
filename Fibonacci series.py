@@ -1,3 +1,11 @@
+"""
+	Author: Ayoub Diri
+	Date: March 20th 2024
+	
+	This program returns a list of the Fibonacci series
+    based on the number you choose
+"""
+
 # this function for call Fibonacci series like a list.
 def Fibonacci_series ():
     try:
